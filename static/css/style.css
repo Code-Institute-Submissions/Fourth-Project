@@ -12,6 +12,8 @@ body {
 #navbox {
     background-color: #b8d7f5;
     text-align: center;
+    padding-top: 0;
+    margin-top: 0;
 }
 
 .thin {
@@ -27,7 +29,7 @@ body {
 }
 
 .main-bg {
-    background-color: #a0acc4;
+    background-color: #8f97a7;
 }
 
 .card {
