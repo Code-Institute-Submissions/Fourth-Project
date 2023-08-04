@@ -1,5 +1,5 @@
 body {
-    background-color: #F9FAFC;
+    background-color:#445261
 }
 
 .brand {
@@ -136,7 +136,7 @@ body {
 
 .btn-like:hover,
 .btn-like:active {
-    color: #E84610;
+    color: #0416b9;
     background: transparent;
     border: none;
 }
