@@ -1,5 +1,5 @@
 body {
-    background-color: #445261;
+    background-color: #828991;
 }
 
 .brand {
@@ -10,7 +10,8 @@ body {
 }
 
 #navbox {
-    background-color: #646f7a;
+    background-color: #b8d7f5;
+    text-align: center;
 }
 
 .thin {
@@ -26,7 +27,7 @@ body {
 }
 
 .main-bg {
-    background-color: #5e5f61;
+    background-color: #a0acc4;
 }
 
 .card {
@@ -62,7 +63,7 @@ body {
 }
 
 .masthead-text {
-    background-color: #445261;
+    background-color: #02366d;
     color: white;
     position: relative;
 }
