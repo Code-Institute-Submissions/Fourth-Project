@@ -1,5 +1,5 @@
 body {
-    background-color:#445261
+    background-color: #445261;
 }
 
 .brand {
@@ -7,6 +7,10 @@ body {
     font-size: 1.4rem;
     font-weight: 700;
     color: #0505ee;
+}
+
+.navbar-brand {
+    background-color: #646f7a;
 }
 
 .thin {
